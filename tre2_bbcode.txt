@@ -1,15 +1,16 @@
-[table style="border: none!important; border-radius: 25px; width: 760px; margin: 12px auto; padding: 0; box-shadow: 0 3px 10px rgba(0,0,0,0.30); overflow: hidden; text-align: center;" bgcolor="#d9a404"]
-  [tr][td style="border: none!important; padding: 10px;"]
+[center]
+[table style="border: none!important; border-radius: 26px; width: 820px; margin: 10px auto 18px auto; padding: 0; box-shadow: 0 4px 12px rgba(0,0,0,0.30); overflow: hidden; text-align: center;" bgcolor="#d9a404"]
+  [tr][td style="border: none!important; padding: 12px 12px 18px 12px;"]
     [table style="border: none!important; border-radius: 22px; width: 100%; overflow: hidden;" bgcolor="#012611"]
       [tr][td style="border: none!important; padding: 12px;" align="center"]
         [img]https://i.imgur.com/41JY9Xp.png[/img]
       [/td][/tr]
-      [tr][td style="border: none!important; padding: 14px;" bgcolor="#f5f5f5"]
-        [table style="border: none!important; border-radius: 18px; width: 100%; box-shadow: 0 4px 8px rgba(0,0,0,0.20); overflow: hidden;" bgcolor="#f8f8ff"]
-          [tr][td style="border: none!important; padding: 16px;"]
+      [tr][td style="border: none!important; padding: 14px 16px 20px 16px;" bgcolor="#f5f5f5"]
+        [table style="border: none!important; border-radius: 18px; width: 100%; box-shadow: 0 4px 8px rgba(0,0,0,0.18); overflow: hidden;" bgcolor="#f8f8ff"]
+          [tr][td style="border: none!important; padding: 16px 18px;"]
             [center][color=#8b0000][b]Seja bem-vindo(a) ao TRE.2![/b][/color][/center]
             [color=#000000]
-Este tópico reúne as [b]orientações essenciais[/b] para que o [color=#8b0000][b]Treinador de Nível 2[/b][/color] realize suas funções com segurança, clareza e de acordo com as normas da Companhia dos Treinadores.
+Este tópico reúne as [b]orientações essenciais[/b] para que o [color=#8b0000][b]Treinador de Nível 2[/b][/color] realize suas funções com segurança, clareza e alinhamento às normas da Companhia dos Treinadores.
 
 As informações aqui presentes [b]complementam[/b] o que está descrito na [b]apostila de graduação intermediária[/b] da companhia.
 
@@ -17,10 +18,10 @@ As informações aqui presentes [b]complementam[/b] o que está descrito na [b]a
 • O link para o [b]grupo oficial de WhatsApp do TRE.2[/b] é divulgado nos comunicados internos da companhia.
             [/color]
 
-            [table style="border: none!important; border-radius: 15px; width: 100%; margin: 12px auto 6px auto; overflow: hidden;" bgcolor="#f7f7f7"]
+            [table style="border: none!important; border-radius: 15px; width: 100%; margin: 14px auto 8px auto; overflow: hidden;" bgcolor="#f7f7f7"]
               [tr][td style="border: none!important; padding: 10px 12px;"]
-                [table style="border: none!important; border-radius: 18px; width: 50%; margin: 0 auto 8px auto; overflow: hidden;" bgcolor="#8b0000"]
-                  [tr][td style="border: none!important; padding: 5px 8px;" align="center"][color=#ffffff][b]RESUMO RÁPIDO[/b][/color][/td][/tr]
+                [table style="border: none!important; border-radius: 18px; width: 50%; margin: 0 auto 10px auto; overflow: hidden;" bgcolor="#8b0000"]
+                  [tr][td style="border: none!important; padding: 6px 10px;" align="center"][color=#ffffff][b]RESUMO RÁPIDO[/b][/color][/td][/tr]
                 [/table]
                 [color=#000000]
 • Você aplica [b]Treinamentos Rápidos[/b] (tipos [b]A[/b] e [b]B[/b]).
@@ -32,10 +33,10 @@ As informações aqui presentes [b]complementam[/b] o que está descrito na [b]a
               [/td][/tr]
             [/table]
 
-            [table style="border: none!important; border-radius: 15px; width: 100%; margin: 8px auto; overflow: hidden;" bgcolor="#f7f7f7"]
+            [table style="border: none!important; border-radius: 15px; width: 100%; margin: 10px auto; overflow: hidden;" bgcolor="#f7f7f7"]
               [tr][td style="border: none!important; padding: 10px 12px;"]
-                [table style="border: none!important; border-radius: 18px; width: 70%; margin: 0 auto 8px auto; overflow: hidden;" bgcolor="#8b0000"]
-                  [tr][td style="border: none!important; padding: 5px 8px;" align="center"][color=#ffffff][b]TREINAMENTOS RÁPIDOS[/b][/color][/td][/tr]
+                [table style="border: none!important; border-radius: 18px; width: 70%; margin: 0 auto 10px auto; overflow: hidden;" bgcolor="#8b0000"]
+                  [tr][td style="border: none!important; padding: 6px 10px;" align="center"][color=#ffffff][b]TREINAMENTOS RÁPIDOS[/b][/color][/td][/tr]
                 [/table]
                 [color=#000000]
 [b][color=#8b0000]1. Tipos de treinamentos[/color][/b]
@@ -92,10 +93,10 @@ Caso isso ocorra, a gratificação será [b]cancelada[/b] pelo [b]CRH[/b] e o re
               [/td][/tr]
             [/table]
 
-            [table style="border: none!important; border-radius: 15px; width: 100%; margin: 8px auto; overflow: hidden;" bgcolor="#f7f7f7"]
+            [table style="border: none!important; border-radius: 15px; width: 100%; margin: 10px auto; overflow: hidden;" bgcolor="#f7f7f7"]
               [tr][td style="border: none!important; padding: 10px 12px;"]
-                [table style="border: none!important; border-radius: 18px; width: 60%; margin: 0 auto 8px auto; overflow: hidden;" bgcolor="#8b0000"]
-                  [tr][td style="border: none!important; padding: 5px 8px;" align="center"][color=#ffffff][b]TUTORIAS (TRE.1)[/b][/color][/td][/tr]
+                [table style="border: none!important; border-radius: 18px; width: 60%; margin: 0 auto 10px auto; overflow: hidden;" bgcolor="#8b0000"]
+                  [tr][td style="border: none!important; padding: 6px 10px;" align="center"][color=#ffffff][b]TUTORIAS (TRE.1)[/b][/color][/td][/tr]
                 [/table]
                 [color=#000000]
 [b][color=#8b0000]1. Conceito[/color][/b]
@@ -116,44 +117,36 @@ Total: [b]duas tutorias[/b] por Treinador de Nível 1.
 
 [b][color=#8b0000]3. Tempos mínimos – CAS e CFS[/color][/b]
 
-• Para [b]postagem de queda[/b] (CAS e CFS):
-– aula deve ter, no mínimo, [b]2 minutos[/b].
-
+• Para [b]postagem de queda[/b] (CAS e CFS): aula deve ter, no mínimo, [b]2 minutos[/b].
 • Para [b]aprovação ou reprovação normal[/b]:
-– [b]CAS:[/b] mínimo de [b]4 minutos[/b];
-– [b]CFS:[/b] mínimo de [b]7 minutos[/b].
+  – [b]CAS:[/b] mínimo de [b]4 minutos[/b];
+  – [b]CFS:[/b] mínimo de [b]7 minutos[/b].
                 [/color]
               [/td][/tr]
             [/table]
 
-            [table style="border: none!important; border-radius: 15px; width: 100%; margin: 8px auto; overflow: hidden;" bgcolor="#f7f7f7"]
+            [table style="border: none!important; border-radius: 15px; width: 100%; margin: 10px auto; overflow: hidden;" bgcolor="#f7f7f7"]
               [tr][td style="border: none!important; padding: 10px 12px;"]
-                [table style="border: none!important; border-radius: 18px; width: 65%; margin: 0 auto 8px auto; overflow: hidden;" bgcolor="#8b0000"]
-                  [tr][td style="border: none!important; padding: 5px 8px;" align="center"][color=#ffffff][b]POSTAGENS & COMPROVAÇÕES[/b][/color][/td][/tr]
+                [table style="border: none!important; border-radius: 18px; width: 65%; margin: 0 auto 10px auto; overflow: hidden;" bgcolor="#8b0000"]
+                  [tr][td style="border: none!important; padding: 6px 10px;" align="center"][color=#ffffff][b]POSTAGENS & COMPROVAÇÕES[/b][/color][/td][/tr]
                 [/table]
                 [color=#000000]
 [b][color=#8b0000]1. Prazos[/color][/b]
 
-• [b]Treinamentos rápidos:[/b] postagem em até [b]30 minutos[/b] após o término.
-Postagens tardias → [b]cancelamento[/b] por membro do [b]Conselho Penal dos Treinadores[/b].
+• [b]Treinamentos rápidos:[/b] postagem em até [b]30 minutos[/b] após o término. Postagens tardias → [b]cancelamento[/b] por membro do [b]Conselho Penal dos Treinadores[/b].
 
-• [b]Tutorias:[/b] postagem em até [b]1 hora[/b] após o término.
-Postagens fora do prazo → [b]cancelamento[/b] por membro do [b]Ministério da Contabilidade[/b].
+• [b]Tutorias:[/b] postagem em até [b]1 hora[/b] após o término. Postagens fora do prazo → [b]cancelamento[/b] por membro do [b]Ministério da Contabilidade[/b].
 
 [b][color=#8b0000]2. Prints – computador[/color][/b]
 
-Treinamentos rápidos:
-• [b]2 prints[/b] (início e fim do treino).
-
-Tutorias:
-• prints de [b]início[/b], [b]meio[/b] e [b]fim[/b].
+Treinamentos rápidos: [b]2 prints[/b] (início e fim do treino).
+Tutorias: prints de [b]início[/b], [b]meio[/b] e [b]fim[/b].
 
 Todos os prints devem estar em [b]tela cheia[/b], com [b]data e horário[/b] visíveis e [b]histórico aberto[/b].
 
 [b][color=#8b0000]3. Prints – mobile[/color][/b]
 
 São necessários [b]6 prints[/b], nesta ordem:
-
 1. Tela de bloqueio com [b]horário inicial[/b];
 2. Presença do aluno no [b]início[/b] do treino;
 3. [b]Histórico do início[/b] aberto;
@@ -164,10 +157,10 @@ São necessários [b]6 prints[/b], nesta ordem:
               [/td][/tr]
             [/table]
 
-            [table style="border: none!important; border-radius: 15px; width: 100%; margin: 8px auto; overflow: hidden;" bgcolor="#f7f7f7"]
+            [table style="border: none!important; border-radius: 15px; width: 100%; margin: 10px auto; overflow: hidden;" bgcolor="#f7f7f7"]
               [tr][td style="border: none!important; padding: 10px 12px;"]
-                [table style="border: none!important; border-radius: 18px; width: 70%; margin: 0 auto 8px auto; overflow: hidden;" bgcolor="#8b0000"]
-                  [tr][td style="border: none!important; padding: 5px 8px;" align="center"][color=#ffffff][b]QUEDA DO PARTICIPANTE[/b][/color][/td][/tr]
+                [table style="border: none!important; border-radius: 18px; width: 70%; margin: 0 auto 10px auto; overflow: hidden;" bgcolor="#8b0000"]
+                  [tr][td style="border: none!important; padding: 6px 10px;" align="center"][color=#ffffff][b]QUEDA DO PARTICIPANTE[/b][/color][/td][/tr]
                 [/table]
                 [color=#000000]
 Se o policial [b]cair desconectado[/b] durante o treinamento rápido, o treino ainda pode ser validado, desde que todas as condições abaixo sejam cumpridas:
@@ -192,11 +185,12 @@ Se o policial [b]cair desconectado[/b] durante o treinamento rápido, o treino a
     [/table]
   [/td][/tr]
 [/table]
+[/center]
 
-[table style="font-weight: 500; border-radius: 30px; width: 50%; overflow: hidden; position: relative; z-index: 1; margin-left: 80px; margin-right: auto; margin-top: -30px; margin-bottom: 0px;"]
-  [tr][td style="border: none !important; overflow: hidden; padding: 8px; width: 50%;" bgcolor="#5A694E"]
+[table style="font-weight: 500; border-radius: 30px; width: 52%; overflow: hidden; position: relative; z-index: 1; margin-left: 80px; margin-right: auto; margin-top: -34px; margin-bottom: 0px;"]
+  [tr][td style="border: none !important; overflow: hidden; padding: 9px; width: 50%;" bgcolor="#5A694E"]
     [table style="font-weight: 500; border-radius: 30px; box-shadow: 5px 5px 15px rgba(0,0,0,0.35), 0px 2px 5px rgba(0,0,0,0.35); width: 100%; overflow: hidden;"]
-      [tr][td style="border: none !important; overflow: hidden; padding: 2px; width: 100%;" bgcolor="#323F2E"]
+      [tr][td style="border: none !important; overflow: hidden; padding: 4px 6px; width: 100%;" bgcolor="#323F2E" align="center"]
         [color=#FFFFFF][size=20][b]Orientações Gerais TRE.2[/b][/size][/color]
       [/td][/tr]
     [/table]
